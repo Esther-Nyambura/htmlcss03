@@ -7,7 +7,7 @@
     .row1 img , .row2 img , .row3 img {
          margin: 0 40px 40px 0; 
         width: 20%;
-        min-width: 200px; 
+       
         object-fit: contain;
         max-width: 500px;
         max-height: 80%;
