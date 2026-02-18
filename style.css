@@ -1,0 +1,19 @@
+    .whole{
+        width:100vw;
+        height: 100vh;
+
+    }
+
+    .row1 img , .row2 img , .row3 img {
+         margin: 0 40px 40px 0; 
+        width: 30%;
+        min-width: 400px; 
+        object-fit: contain;
+        max-width: 500px;
+        max-height: 80%;
+    }
+
+    body{
+  overflow-x: hidden;
+   overflow-y: auto; 
+}
